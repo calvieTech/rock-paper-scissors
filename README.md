@@ -24,6 +24,15 @@ The first to win **3 rounds** is declared the winner!
 
 ---
 
+## 📸 Screenshots
+
+| Game Start | During Game | Player Wins |
+|-----------|-------------|-------------|
+| ![Start Screen](Screenshot%202025-09-16%20at%201.39.25 PM.jpg) | ![In Game](./Screenshot%202025-09-16%20at%201.39.43 PM.jpg) | ![Winner Screen](Screenshot%202025-09-16%20at%201.39.53 PM.jpg/) |
+
+*(You can replace these with your own screenshots if you take them.)*
+
+---
 
 ## 🎮 How to Play
 
